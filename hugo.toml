@@ -1,4 +1,4 @@
-baseURL = 'https://yourusername.github.io/'
+baseURL = 'https://yourusername.github.io/blog/'
 languageCode = 'zh-tw'
-title = 'My New Hugo Site'
+title = '小連同學ㄉ部落'
 theme = 'hugo-book'
