@@ -1,0 +1,4 @@
+baseURL = 'https://yourusername.github.io/'
+languageCode = 'zh-tw'
+title = 'My New Hugo Site'
+theme = 'hugo-book'
