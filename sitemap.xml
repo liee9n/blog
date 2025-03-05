@@ -2,14 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yourusername.github.io/blog/docs/my-first-doc/</loc>
+    <loc>https://liee9n.github.io/blog/docs/my-first-doc/</loc>
   </url><url>
-    <loc>https://yourusername.github.io/blog/categories/</loc>
+    <loc>https://liee9n.github.io/blog/tags/</loc>
+    <lastmod>2025-03-05T17:56:12+08:00</lastmod>
   </url><url>
-    <loc>https://yourusername.github.io/blog/docs/</loc>
+    <loc>https://liee9n.github.io/blog/tags/</loc>
+    <lastmod>2025-03-05T17:56:12+08:00</lastmod>
   </url><url>
-    <loc>https://yourusername.github.io/blog/tags/</loc>
+    <loc>https://liee9n.github.io/blog/posts/my-first-post/</loc>
+    <lastmod>2025-03-05T17:56:12+08:00</lastmod>
   </url><url>
-    <loc>https://yourusername.github.io/blog/</loc>
+    <loc>https://liee9n.github.io/blog/posts/</loc>
+    <lastmod>2025-03-05T17:56:12+08:00</lastmod>
+  </url><url>
+    <loc>https://liee9n.github.io/blog/tags/</loc>
+    <lastmod>2025-03-05T17:56:12+08:00</lastmod>
+  </url><url>
+    <loc>https://liee9n.github.io/blog/</loc>
+    <lastmod>2025-03-05T17:56:12+08:00</lastmod>
+  </url><url>
+    <loc>https://liee9n.github.io/blog/categories/</loc>
+  </url><url>
+    <loc>https://liee9n.github.io/blog/docs/</loc>
   </url>
 </urlset>
