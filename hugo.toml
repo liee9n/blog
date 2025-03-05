@@ -1,4 +1,8 @@
-baseURL = 'https://yourusername.github.io/blog/'
+baseURL = 'https://liee9n.github.io/blog/'
 languageCode = 'zh-tw'
 title = '小連同學ㄉ部落'
 theme = 'hugo-book'
+
+[params]
+  BookSection = 'Docs'
+  BookShowToc = true
