@@ -1,0 +1,5 @@
+baseurl = "https://example.com/"
+theme = "github.com/chipzoller/hugo-clarity"
+copyright = "小連同學"
+
+readMoreText = "READ"

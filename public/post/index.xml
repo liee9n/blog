@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>小連同學</copyright>
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Notices</title>
+      <link>http://localhost:1313/post/first_post/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/first_post/</guid>
+      <description>
+        
+          
+            &lt;p&gt;The &amp;ldquo;Notices&amp;rdquo; shortcode enables you to call out pieces of information - sidebars, warnings, tips, etc.&lt;/p&gt;
+&lt;p&gt;To create a notice on a page, you can use the &lt;code&gt;notice&lt;/code&gt; shortcode.&lt;br&gt;
+You use the &lt;code&gt;notice&lt;/code&gt; shortcode, with the first parameter being one of &lt;code&gt;note&lt;/code&gt;, &lt;code&gt;info&lt;/code&gt;, &lt;code&gt;tip&lt;/code&gt;, and &lt;code&gt;warning&lt;/code&gt;.  Then add a title for your
+note in quotes as the second parameter.  The inner body of the note can be whatever markdown you want to create.&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
