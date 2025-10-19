@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/Users/lien/Documents/projects/LoveIt",
+	"sourceRoot": "/home/runner/work/blog-source/blog-source",
 	"sources": [
 		"assets/css/style.scss",
 		"assets/lib/modern-normalize/modern-normalize.css",
